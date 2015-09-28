@@ -3,7 +3,7 @@
 0. Install [GitHub for Windows](http://desktop.github.com)
 1. [Install Ruby 2.2 (not x64)](http://rubyinstaller.org)
   * Install folder should be `c:\Ruby22`
-  * Check **Add Ruby executables to your PATH**
+  * Check **Add Ruby executables to your PATH**, leave other options unchecked.
 2. Install the appropriate DevKit
   * Install folder should be `c:\RubyDevKit`
 3. Run **Git Shell**
