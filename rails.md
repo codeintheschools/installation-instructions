@@ -18,5 +18,5 @@
   * You may get something saying the firewall has blocked the Ruby Interpreter, if so, allow it on both public and private networks
 10. `rails -v` should show something like `Rails 4.2...`
 
-Follow the [Guide](http://guides.rubyonrails.org/getting_started.html)
+[Rails Getting Started Guide](http://guides.rubyonrails.org/getting_started.html)
 
